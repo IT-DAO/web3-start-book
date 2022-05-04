@@ -45,15 +45,18 @@ V神创建以太坊是因为，比特币有局限性。那比特币有什么局�
 ### 第三节：ERC-20介绍
 
 **ERC-20介绍（重要）**
+
 [加密货币为什么有这么多种？ERC20标准？Token？(12分钟)](https://www.bilibili.com/video/BV1qT4y1U7b2?spm_id_from=333.880.my_history.page.click)
 
 **NFT基础 ERC-721介绍**
+
 [ERC20和ERC721你懂多少？(3分钟)](https://www.bilibili.com/video/BV1yt411v7PR?spm_id_from=333.337.search-card.all.click)
 
 
 ### 第四节：NFT
 
 [一张jpg价值上亿，一款游戏养活一家，NFT是如何发展到今天的？【上集】(10分钟)](https://www.bilibili.com/video/BV18h41187ZS?spm_id_from=333.337.search-card.all.click)
+
 [NFT是怎么发展起来的？【下集】(8分钟)](https://www.bilibili.com/video/BV1644y1i7yD/?spm_id_from=333.788.recommend_more_video.-1)
 
 
