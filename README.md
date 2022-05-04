@@ -1,10 +1,11 @@
 # 《web3入门指南》
 
 <p align="center">
-    <img style="width:80%" src="https://avatars.githubusercontent.com/u/103578478?s=400&u=3a770eba2551741bb28d6be0ffe3d094fb189967&v=4" />
+    <img style="width:20%" src="https://avatars.githubusercontent.com/u/103578478?s=400&u=3a770eba2551741bb28d6be0ffe3d094fb189967&v=4" />
 </p>
 
-**本项目的目标是帮助web2人员快速进入到web3，是web3的扫盲版本，其中的技术点到为止，主要是打开大家web3的视野，之后无论是深入研究技术，或者做产品，或者做投研等等，《web3入门指南》都可以成为你的土壤，供你成长。**
+**本项目的目标是帮助web2人员快速进入到web3，是web3的扫盲版本，其中的技术点到为止，主要是打开大家web3的视野。**
+**之后无论是深入研究技术，或者做产品，或者做投研等等，《web3入门指南》都可以成为你的土壤，供你成长。**
 
 > 持续更新中
 
