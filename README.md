@@ -2,23 +2,28 @@
 
 **本项目的目标是帮助web2人员快速进入到web3，是web3的扫盲版本，其中的技术点到为止，主要是打开大家web3的视野，之后无论是深入研究技术，或者做产品，或者做投研等等，《web3入门指南》都可以成为你的土壤，供你成长。**
 
+## 视频符号说明
+
+🔺：学习视频，视频讲解内容完备，可以很好理解和学习
+🔻：学习视频，视频讲解内容不太完备，待寻找新的学习视频替换
+
 ## 目录：
 
-> 书写中
+> 持续更新中
 
 
 ## 第一章：信任与货币发展
 
 通过看本节内容，你会了解到虚拟货币之前的货币的发展过程，目前的货币发展非常的不透明和剥削底层，于是在2008年金融危机之后，中本聪提出了去中心化的虚拟货币-比特币，来让交易透明。当然不管是现在的货币体系，还是虚拟货币，他们的底层基础都是信任；通过下面的视频，我们知道了 现代货币 可以靠国家背书作为信任，那么虚拟货币靠什么构建信任呢？这个在第二章会介绍。
 
-[货币是如何产生的（38分钟）](https://www.youtube.com/watch?v=jW6AxaKjEmE)
+🔺[货币是如何产生的（38分钟）](https://www.youtube.com/watch?v=jW6AxaKjEmE)
 
 
 ## 第二章：比特币
 
 通过下面的视频，你讲了解到比特币的起源，了解到什么是区块链，比特币如何通过区块链和加密构建信任体系的，并了解其中一些具体的原理和名词。
 
-[李永乐老师讲比特币（32分钟）](https://www.bilibili.com/video/BV13F41187hT/?spm_id_from=333.788.recommend_more_video.-1)
+🔺[李永乐老师讲比特币（32分钟）](https://www.bilibili.com/video/BV13F41187hT/?spm_id_from=333.788.recommend_more_video.-1)
 
 
 ## 第三章：以太坊
@@ -33,32 +38,62 @@ V神创建以太坊是因为，比特币有局限性。那比特币有什么局�
 
 ### 第一节：以太坊介绍
 
-[什麼是以太幣&以太坊運行超強詳解 | 入門完全指南（17分钟）](https://www.youtube.com/watch?v=26kR2vUbbJo)
+🔺[什麼是以太幣&以太坊運行超強詳解 | 入門完全指南（17分钟）](https://www.youtube.com/watch?v=26kR2vUbbJo)
 
 
 ### 第二节：智能合约介绍
 
-[什么是智能合约？(4分钟)](https://www.bilibili.com/video/BV1c64y1k7r7?spm_id_from=333.337.search-card.all.click)
-[简单解释智能合约是什么(4分钟)](https://www.bilibili.com/video/BV1sW411B7mS/?spm_id_from=333.788.recommend_more_video.-1)
+🔻[什么是智能合约？(4分钟)](https://www.bilibili.com/video/BV1c64y1k7r7?spm_id_from=333.337.search-card.all.click)
+🔻[简单解释智能合约是什么(4分钟)](https://www.bilibili.com/video/BV1sW411B7mS/?spm_id_from=333.788.recommend_more_video.-1)
 
 
 ### 第三节：ERC-20介绍
 
 **ERC-20介绍（重要）**
 
-[加密货币为什么有这么多种？ERC20标准？Token？(12分钟)](https://www.bilibili.com/video/BV1qT4y1U7b2?spm_id_from=333.880.my_history.page.click)
+🔺[加密货币为什么有这么多种？ERC20标准？Token？(12分钟)](https://www.bilibili.com/video/BV1qT4y1U7b2?spm_id_from=333.880.my_history.page.click)
 
 **NFT基础 ERC-721介绍**
 
-[ERC20和ERC721你懂多少？(3分钟)](https://www.bilibili.com/video/BV1yt411v7PR?spm_id_from=333.337.search-card.all.click)
+🔺[ERC20和ERC721你懂多少？(3分钟)](https://www.bilibili.com/video/BV1yt411v7PR?spm_id_from=333.337.search-card.all.click)
 
 
 ### 第四节：NFT
 
-[一张jpg价值上亿，一款游戏养活一家，NFT是如何发展到今天的？【上集】(10分钟)](https://www.bilibili.com/video/BV18h41187ZS?spm_id_from=333.337.search-card.all.click)
+🔺[NFT简史【上集】(10分钟)](https://www.bilibili.com/video/BV18h41187ZS?spm_id_from=333.337.search-card.all.click)
 
-[NFT是怎么发展起来的？【下集】(8分钟)](https://www.bilibili.com/video/BV1644y1i7yD/?spm_id_from=333.788.recommend_more_video.-1)
+🔺[NFT简史【下集】(8分钟)](https://www.bilibili.com/video/BV1644y1i7yD/?spm_id_from=333.788.recommend_more_video.-1)
 
 
+### 第五节：DApp
 
+去中心化 + App = 去中心化应用（DApp）
+
+🔻[DAPP是什么？（5分钟）](https://www.youtube.com/watch?v=n17gNvUcTOs)
+
+### 第六节：DiFi
+
+去中心化 + 金融 = 去中心化金融（DiFi）
+
+🔺[DeFi是什麼？DeFi去中心化金融運行超強詳解（21分钟）](https://www.youtube.com/watch?v=KJhG9NAq-dg)
+
+### 第七节：GameFi（链游）
+
+将去中心化金融产品以游戏的方式呈现，将DiFi的规则游戏化，将游戏道具NFT化，
+
+🔺[什麼是GameFi?|GameFi掃盲貼（19分钟）](https://www.youtube.com/watch?v=6-qb9WFmj14)
+
+### 第八节：DAO
+
+虚拟货币是一种去中心化的，Dapp 也是去中心化的应用，DiFi是去中心化的金融，延伸一下是不是也可以有去中心化的组织？这个去中心化的组织就叫做DAO
+
+[DAO是什麼？（10分钟）](https://www.youtube.com/watch?v=2vdfMibmo-8)
+
+### 第九节：Solidity（开发人员选修）
+
+🔻[基于以太坊的智能合约开发教程【Solidity】(13小时28分钟)](https://www.bilibili.com/video/BV1St411a7Pk?spm_id_from=333.337.search-card.all.click)
+
+## 第四节：其他主链
+
+## 第五节：web3&元宇宙
 
