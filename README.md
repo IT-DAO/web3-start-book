@@ -117,6 +117,8 @@ V神创建以太坊是因为，比特币有局限性。那比特币有什么局�
 
 因为以太坊gas费贵，速度慢，所以gas费便宜，速度快的EOS当年被称为以太坊杀手；EOS当年喊出了口号，要做区块链3.0（区块链1.0是比特币，区块链2.0是以太坊，EOS要超越以太坊）
 
+EOS为什么能这么快，主要是因为提出了POS（权益证明）来标示工作量，和传统的挖矿工作量证明不一样，POS将记账权分不到很少的超级节点上进行。
+
 **EOS介绍**
 
 🔻 [一起探討什麼是EOS（10分钟）](https://www.youtube.com/watch?v=7NglvirjIQQ)
@@ -126,6 +128,21 @@ V神创建以太坊是因为，比特币有局限性。那比特币有什么局�
 🔻 [一币一别墅，风光不再的eos（8分钟）](https://www.youtube.com/watch?v=83a_qkr_VXU)
 
 🔻 [EOS-曾经的“以太坊”杀手，现在的始乱终弃龙头（21分钟）](https://www.youtube.com/watch?v=8tNDNhtkUIs)
+
+
+### 第二节：ETH2.0
+
+我们都能感觉到以太坊有一些局限性，所以ETH退出了ETH的升级ETH2.0，具有以下的优势：更低的gas费用，更高的并发（之前一秒十几笔，现在一秒几千笔）......
+
+🔺 [什么是ETH2.0?](https://www.youtube.com/watch?v=iU0YAxoX_gQ)
+
+
+### 第三节：Binance（币安智能链）
+
+支持智能合约开发，兼容以太坊...
+
+🔻 [BNB - 虚拟货币交易所的最强存在 Binance（10分钟）](https://www.youtube.com/watch?v=XGvsr3vECcg)
+
 
 ---
 
