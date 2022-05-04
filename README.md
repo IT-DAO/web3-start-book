@@ -2,6 +2,8 @@
 
 <p align="center">
     <img style="width:20%" src="https://avatars.githubusercontent.com/u/103578478?s=400&u=3a770eba2551741bb28d6be0ffe3d094fb189967&v=4" />
+</p>
+<p align="center">
     <a href="javascript:;"><img src="https://img.shields.io/github/issues/IT-DAO/web3-start-book" alt="issues"></a>
     <a href="javascript:;"><img src="https://img.shields.io/github/forks/IT-DAO/web3-start-book" alt="forks"></a>
     <a href="javascript:;"><img src="https://img.shields.io/github/stars/IT-DAO/web3-start-book" alt="stars"></a>
